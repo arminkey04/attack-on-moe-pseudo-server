@@ -1,4 +1,4 @@
-# Attack on Moe - Private Server
+# Attack on Moe - Pseudo Server
 
 **Language / 语言**: [English](#english) | [中文](#中文)
 
